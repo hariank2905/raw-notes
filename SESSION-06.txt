@@ -27,7 +27,7 @@ NAT --> Network Address Translation
 laptop1: 192.168.1.2
 laptop2: 192.168.1.3
 
-latency
+latency --> Speed of the Internet
 security
 
 DNS(Domain Name System) --> IP dictionary
